@@ -8,7 +8,7 @@ Feel free to explore my solutions, suggest improvements, and join me in this lea
 
 ## 📌 What's in this Repo?
 
-- Code for Each Problem in **C#**
+- Code for Each Problem I solve everyday.
 
 ## 🎯 Why This Repo?
 
