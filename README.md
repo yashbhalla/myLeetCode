@@ -8,7 +8,7 @@ Feel free to explore my solutions, suggest improvements, and join me in this lea
 
 ## 📌 What's in this Repo?
 
-- Code for Each Problem in **C#**
+- Code for Each Problem I solve everyday.
 
 ## 🎯 Why This Repo?
 
@@ -16,15 +16,8 @@ Feel free to explore my solutions, suggest improvements, and join me in this lea
 2. **Learning:** Sharpening my DSA skills by tackling diverse problems.  
 3. **Community:** Encouraging collaboration and feedback to grow together.  
 
-## 🛠️ How to Contribute?
-
-1. **Explore:** Browse through the solutions and read my approaches.  
-2. **Suggest Changes:** Spot an improvement? Open a Pull Request or raise an Issue!  
-3. **Participate:** Share your ideas, alternate solutions, or even your own problem-solving approaches.  
-
 ## 💪 Join Me in This Challenge!
 
 This is as much about the journey as the destination. Let’s get better at DSA one problem at a time!  
-
 Happy Coding! 😊
 
